@@ -9,5 +9,7 @@ Please contact the corresponding author at ali.oezen@uniklinik-freiburg.de via e
 
 4. Python scripts used to perform and analyze FDTD simulations
 
+5. 3D model files for the coil housing.
+
 Please cite our paper if you benefit from it or just inspired by these tools:
-Özen AC, et al. Scalable and Modular 8-Channel Transmit and 8-Channel Flexible Receive Coil Array for 19F-MRI of Large Animals. Magn. Reson. Med. Under revision. 2022
+Özen AC, Spreter F, Schimpf W, et al. Scalable and Modular 8-Channel Transmit and 8-Channel Flexible Receive Coil Array for 19F-MRI of Large Animals. Magn. Reson. Med. 2022; 1-14. doi:10.1002/mrm.29490
