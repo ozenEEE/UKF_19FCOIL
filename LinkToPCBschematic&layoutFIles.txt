@@ -1,0 +1,5 @@
+PCB layouts and schematics for
+1. Tx coils
+2. Wilkinson power dividers
+can be found here: https://drive.google.com/drive/folders/1vCNKC85tM509kzeJ29g1RmAIpUi-UJkW?usp=sharing 
+
